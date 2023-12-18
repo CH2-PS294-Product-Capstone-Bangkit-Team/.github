@@ -12,5 +12,5 @@ StuntCare adalah aplikasi yang didedikasikan untuk memonitor dan mencegah stunti
 
 - **Pemantauan Pertumbuhan**: Melacak pertumbuhan anak secara berkala dan menyediakan informasi penting kepada orang tua atau petugas kesehatan.
 - **Informasi Gizi**: Menyediakan informasi gizi terkini dan panduan makanan sehat untuk membantu mencegah stunting.
-- **Notifikasi dan Pengingat**: Memberikan notifikasi penting terkait jadwal pemeriksaan kesehatan anak dan nutrisi yang dibutuhkan.
+- **Konsultasi dengan Ahli**: Memberikan kesempatan bagi user untuk berkonsultasi dengan ahli gizi anak
 - **Riwayat Pertumbuhan**: Menyimpan riwayat pertumbuhan anak untuk memantau perubahan dengan cepat.
