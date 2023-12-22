@@ -6,7 +6,7 @@
 
 StuntCare adalah aplikasi yang didedikasikan untuk memonitor dan mencegah stunting pada anak-anak. Aplikasi ini dirancang untuk memberikan pemantauan yang efisien dan membantu mengurangi angka stunting melalui berbagai fitur dan fungsionalitasnya.
 
-![StuntCare Screenshot](link-to-your-screenshot.png)
+![StuntCare Screenshot]((https://drive.google.com/file/d/1wswIv2HL8lU3E8IYHti45SlOrKexHCIt/view?usp=drive_link))
 
 ## Fitur Utama
 
